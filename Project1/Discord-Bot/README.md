@@ -11,11 +11,11 @@
 
   - Usage
     - with your changes to the code in place, describe
-    * I added a new list with my own quotes of references to convosations my friends have had.
+I added a new list with my own quotes of references to convosations my friends have had.
     - what commands you can type in your Discord server
-    * only `quote`
+only `quote`
     - what response this will provide (from your bot)
-    * it picks a response from the list, aka one of the following 3 
+it picks a response from the list, aka one of the following 3 
     ```
         Mimosa is literally orihime
 
