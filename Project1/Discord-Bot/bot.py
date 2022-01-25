@@ -44,10 +44,14 @@ async def on_message(message):
         'In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.',
         'A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.',
     ]
-
-    if message.content == 'towel!':
+    
+    epic_quotes = [
+        'Mimosa is literally orihime',
+        'Hi Ben jojolion isnt coming out till the 19th, feelsbadman\n Wait part 6 ended this month?\n part 6 ended in 2005',
+        'hi guys\n Why\n https://tenor.com/view/xqc-arabfunny-arabic-saudi-arabia-projared-gif-18306091',
+    if message.content == 'quote':
         #response = random.choice(brooklyn_99_quotes)
-        response = random.choice(hitchhiker_quotes)
+        response = random.choice(epic_quotes)
         await message.channel.send(response)
 
 client.run(TOKEN)
