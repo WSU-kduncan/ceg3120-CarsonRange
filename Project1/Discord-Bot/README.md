@@ -1,21 +1,27 @@
   - Setup
     - how to get an API token
-    * On the discord dev portal, its one of the first buttons.
+ On the discord dev portal, its one of the first buttons.
 
     - where to put it to work with the code
-    * In the .env file, make sure not to post it anywhere.
+ 
+ In the .env file, make sure not to post it anywhere.
 
     - dependencies (what packages need to be installed to run the code)
-    * make sure you use **python3 and pip3**
-    * commands are `pip3 install -U discord.py` and `pip3 install -U python-dotenv`
+    
+make sure you use **python3 and pip3**
+
+commands are `pip3 install -U discord.py` and `pip3 install -U python-dotenv`
 
   - Usage
     - with your changes to the code in place, describe
+
 I added a new list with my own quotes of references to convosations my friends have had.
     - what commands you can type in your Discord server
 only `quote`
+
     - what response this will provide (from your bot)
 it picks a response from the list, aka one of the following 3 
+
     ```
         Mimosa is literally orihime
 
