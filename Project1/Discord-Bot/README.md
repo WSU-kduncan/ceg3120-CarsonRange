@@ -22,7 +22,7 @@ only `quote`
     - what response this will provide (from your bot)
 it picks a response from the list, aka one of the following 3 
 
-    ```
+    
         Mimosa is literally orihime
 
         Hi Ben jojolion isnt coming out till the 19th, feelsbadman
@@ -32,7 +32,7 @@ it picks a response from the list, aka one of the following 3
         hi guys
         Why
         https://tenor.com/view/xqc-arabfunny-arabic-saudi-arabia-projared-gif-18306091
-    ```
+   
   - Research
     - you may have realized that it is lame that it only runs when you run the program.
     - In the real world, things are "always on", not waiting for Bob to turn his PC on and make sure the program is running.
