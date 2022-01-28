@@ -40,3 +40,6 @@ it picks a response from the list, aka one of the following 3
 
 
     The cloud, aka someone else's computer, because you don't always want to host it, so using something like aws.
+    
+    ## screenshot of proof
+    ![Proof of bot](Capture.PNG)
