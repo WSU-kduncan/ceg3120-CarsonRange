@@ -44,6 +44,11 @@ A network level firewall
 ![Question 8](p2question8.PNG)
 
 9.
+```
+ssh -i ~/.ssh/keys/ceg3120-project2-1.pem admin@52.200.82.57
+sudo hostnamectl set-hostname range-ami
+```
+(you have to relog for the new hostname to take affect)
 
 10.
 ![Question 10](p2question10.PNG)
