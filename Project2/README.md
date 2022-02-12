@@ -27,4 +27,8 @@ A network level firewall
 * admin
 * t2.micro
 
+2. I added the security group that was linked to my vpc, and that pulled in everything the vpc had linked to it
+
+
+
 
