@@ -41,7 +41,7 @@ A network level firewall
 7. search "Elastic IP" and allocate a new one and then I went to actions and did "Associate" and added my instance to it
 
 8.
-![Question 8](p2question8.PNG)
+![Question 8](pt2question8.PNG)
 
 9.
 ```
