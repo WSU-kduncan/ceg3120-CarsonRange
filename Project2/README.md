@@ -22,5 +22,9 @@ A network level firewall
 
 ## Part 2
 
-* 1.
+1.
 * Debian 10
+* admin
+* t2.micro
+
+
