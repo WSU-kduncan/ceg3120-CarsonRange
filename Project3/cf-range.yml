@@ -141,10 +141,8 @@ Resources:
             apt-get install -y \
               git \
               python3 \
-              pip3 \
               htop \
-              sl && \
-              hostname Range-CF \
-              echo Range-CF > /etc/hostname \
-            echo "This is from the CF template" > /home/ubuntu/hello.txt && \
+              sl \
+              python3-pip && \
+            hostnamectl set-hostname range --static && \
             reboot
