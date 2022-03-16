@@ -22,3 +22,17 @@ ssh Web-Server-2
 * `sudo systemctl restart haproxy`
 
 * https://www.haproxy.com/blog/the-four-essential-sections-of-an-haproxy-configuration/ https://www.haproxy.com/blog/the-four-essential-sections-of-an-haproxy-configuration/
+
+## 4.
+* i moved the 2 .html files to the default html diretory and renamed them so they would work
+
+* none of the webserver settings are changed
+
+* in `/var/www/html` im guessing this is just how it works
+
+* `sudo systemctl restart apache2`
+
+## 5
+![Server 1](server1.PNG)
+
+![Server 2](server2.PNG)
